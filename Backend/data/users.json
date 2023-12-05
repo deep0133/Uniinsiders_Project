@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "656efc72f568232c89c2b8fb"
+  },
+  "name": "Bird",
+  "avatar": {
+    "filename": "1701772401954-23108939.jpg",
+    "path": "C:\\Users\\deepa\\Desktop\\socialMedia-main\\Backend\\Images\\avatar\\1701772401954-23108939.jpg"
+  },
+  "email": "bird@gmail.com",
+  "posts": [
+    {
+      "$oid": "656efe71f568232c89c2b908"
+    }
+  ],
+  "followers": [],
+  "following": [],
+  "password": "$2a$10$5XgGTucs4qd9J8J1MZbtQOuk2LtiAYFrVR3HTQ0yYUSHZet5j0wnG",
+  "createdAt": {
+    "$date": "2023-12-05T10:31:39.766Z"
+  },
+  "__v": 1
+}]

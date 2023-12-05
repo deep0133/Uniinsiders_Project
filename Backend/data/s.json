@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "656efe71f568232c89c2b908"
+  },
+  "caption": "404 means : NOT FOUND",
+  "image": {
+    "filename": "1701772913140-55104802.jfif",
+    "path": "Images\\post\\1701772913140-55104802.jfif"
+  },
+  "owner": {
+    "$oid": "656efc72f568232c89c2b8fb"
+  },
+  "likes": [],
+  "createdAt": {
+    "$date": "2023-12-05T10:31:39.789Z"
+  },
+  "comments": [],
+  "__v": 0
+}]
